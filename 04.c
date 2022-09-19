@@ -1,3 +1,4 @@
+//Program to check entered number is odd or even without modules operator 
 #include<stdio.h>
 int main()
 {
