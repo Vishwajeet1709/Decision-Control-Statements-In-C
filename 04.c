@@ -7,6 +7,6 @@ int main()
     printf("Enter a number : ");
     scanf("%d",&n);
 
-    n&1?printf("%d is a Odd number.",n):printf("%d is a Even number.",n);
+    n&1?printf("%d is a odd number.",n):printf("%d is a even number.",n);
     return 0;
 }
