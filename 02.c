@@ -1,3 +1,4 @@
+//Program to check whether the entered number is divisible by 5 or not
 #include<stdio.h>
 int main()
 {
