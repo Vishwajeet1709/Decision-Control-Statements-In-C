@@ -7,8 +7,8 @@ int main()
     scanf("%d",&n);
 
     if(n&1==0)
-        printf("%d is a Even number.",n);
+        printf("%d is a Even number. \n\n",n);
     else
-        printf("%d is a Odd number.",n);
+        printf("%d is a Odd number. \n\n",n);
     return 0;
 }
