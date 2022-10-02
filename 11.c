@@ -21,8 +21,8 @@ int main()
         scanf("%d",&sub5);
 
         if(sub1>33 && sub2>33 && sub3>33 && sub4>33 && sub5>33)
-            printf("Congratulations!!! Student is pass in all subjects.");
+            printf("Congratulations!!! Student is pass in all subjects.\n\n");
         else
-            printf("Sorry..! Student is fail either in one or more subjects.");
+            printf("Sorry..! Student is fail either in one or more subjects.\n\n");
     return 0;
 }
