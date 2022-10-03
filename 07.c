@@ -7,5 +7,9 @@ int main()
     scanf("%d%d%d",&a,&b,&c);
     if((b*b)-(4*a*c)==0)
        printf("This quadratic equation has two equal roots");
+    else if((b*b)-(4*a*c)<0)
+       printf("This quadratic equation has two distinct imagery roots");
+    else 
+       printf("This quadratic equation has two different real roots.");
 }
 
