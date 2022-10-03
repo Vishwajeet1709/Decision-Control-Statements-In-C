@@ -11,5 +11,6 @@ int main()
        printf("This quadratic equation has two distinct imagery roots");
     else 
        printf("This quadratic equation has two different real roots.");
+    return 0;
 }
 
