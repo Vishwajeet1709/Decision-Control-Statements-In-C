@@ -7,11 +7,11 @@ int main()
     printf("Enter any two numbers : ");
     scanf("%d%d",&a,&b);
     if(a==b)
-        printf("Both are same numbers.");
+        printf("Both are same numbers. \n\n");
     else if(a>b)
-        printf("%d is grater number.",a);
+        printf("%d is grater number. \n\n",a);
     else
-        printf("%d is grater number.",b);
+        printf("%d is grater number.\n\n",b);
     return 0;
 }
 
