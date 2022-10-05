@@ -9,8 +9,8 @@ int main()
     if(n==0)
         printf("Please try again, it is neither NEAGITVE nor POSITIVE. \n\n");
     else if(n>0)
-        printf("You have entered a POSITIVE number. \n \n");
+        printf("You have entered a POSITIVE number.\n\n");
     else
-        printf("You have entered a NEGATIVE number. \n\n");
+        printf("You have entered a NEGATIVE number.\n\n");
     return 0;
 }
