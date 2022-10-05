@@ -7,7 +7,7 @@ int main()
     scanf("%d",&n);
 
     if(n==0)
-        printf("Please try again, it is neither NEAGITVE nor POSITIVE. \n\n");
+        printf("Please try again, it is neither NEAGITVE nor POSITIVE.\n\n");
     else if(n>0)
         printf("You have entered a POSITIVE number.\n\n");
     else
