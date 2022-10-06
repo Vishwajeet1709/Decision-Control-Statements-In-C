@@ -1,4 +1,4 @@
-
+//check even or odd without % Operator
 #include<stdio.h>
 int main()
 {
