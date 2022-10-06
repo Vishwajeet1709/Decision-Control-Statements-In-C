@@ -9,6 +9,6 @@ int main()
     if(n%5 == 0)
         printf("Yes, %d is divisible by 5.\n\n",n);
     else
-        printf("No, %d is not divisible by 5.",n);
+        printf("No, %d is not divisible by 5.\n\n",n);
     return 0;
 }
