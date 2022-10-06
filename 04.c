@@ -1,8 +1,8 @@
+
 #include<stdio.h>
 int main()
 {
     int n;
-    //check even or odd without % Operator
     printf("Enter a number : ");
     scanf("%d",&n);
 
