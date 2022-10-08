@@ -10,6 +10,6 @@ int main()
     if(n%4)
         printf("%d is not a leap year.\n\n",n);
     else
-        printf("%d is a leap year.",n);
+        printf("%d is a leap year.\n\n",n);
     return 0;
 }
