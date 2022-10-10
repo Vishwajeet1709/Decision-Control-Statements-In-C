@@ -15,7 +15,7 @@ int main()
     else
     {
         P=CP-SP;
-        printf("You made loss of %f %%.",P/CP*100);
+        printf("You made loss of %f %%.\n\n",P/CP*100);
     }
     return 0;
 }
