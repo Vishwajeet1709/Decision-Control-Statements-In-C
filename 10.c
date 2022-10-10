@@ -10,7 +10,7 @@ int main()
     if(SP>=CP)
     {
         P=SP-CP;
-        printf("You have made profit of %f %%",P/CP*100);
+        printf("You have made profit of %f %%\n\n",P/CP*100);
     }
     else
     {
